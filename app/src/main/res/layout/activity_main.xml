@@ -24,6 +24,10 @@
         app:itemIconTint="@android:color/white"
         app:itemTextColor="@android:color/white"
         app:menu="@menu/navegacion" />
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v7.widget.Toolbar>
 
 </android.support.design.widget.CoordinatorLayout>
 
